@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahaka&label=Profile%20views&color=0e75b6&style=flat" alt="salahaka" /> </p>
 
-- 🔭 2nd Year MCA Student
+- 👩‍💻 2nd Year MCA Student
 
 - 👩‍🎓 Graduated in BSC CS 
 
