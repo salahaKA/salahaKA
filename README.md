@@ -1,3 +1,4 @@
+![logo](https://github.com/salahaKA/salahaKA/blob/main/OIP%20(3).jpeg)
 <h1 align="center">Hi 👋, I'm KADEEJATH SALAHA</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
