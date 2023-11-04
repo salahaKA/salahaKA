@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm KADEEJATH SALAHA</h1>
+<h1 align="center" text-color= "white"><b>Hi, I'm KADEEJATH SALAHA</b></h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
