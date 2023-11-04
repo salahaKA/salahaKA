@@ -8,7 +8,7 @@
 
 - 👩‍💻 2nd Year MCA Student
 - 👩‍🎓 Graduated in BSC CS
-- ☁ All of my projects are available at https://github.com/salahaKA
+- ☁ All of my basic projects are available at https://github.com/salahaKA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
