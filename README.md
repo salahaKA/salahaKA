@@ -1,4 +1,4 @@
-![logo](https://github.com/salahaKA/salahaKA/blob/main/54dd2a6c17f894e233848e18eaa242d9.jpg)
+
 <h1 align="center" text-color= "white"><b>Hi, I'm KADEEJATH SALAHA</b></h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
