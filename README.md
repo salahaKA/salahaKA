@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahaka&label=Profile%20views&color=0e75b6&style=flat" alt="salahaka" /> </p>
 
 - 👩‍💻 MERN Stack Intern @RDL Tech
-- 👩‍🎓 2nd year MCA Student
+- 👩‍🎓 Post Graduated in Master of Computer Applicatin (MCA)
 - 👩‍🎓 Graduated in BSC CS
-- ☁ All of my basic projects are available here..
+- ☁ All of my basic projects and Learnings are available here..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
