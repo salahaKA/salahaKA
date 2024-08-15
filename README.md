@@ -44,9 +44,11 @@
 <!--     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> -->
 <!--<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> --> 
+<!-- -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahaka&show_icons=true&locale=en&layout=compact" alt="salahaka" /></p>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahaka&show_icons=true&locale=en&layout=compact" alt="salahaka" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahaka&show_icons=true&locale=en" alt="salahaka" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahaka&show_icons=true&locale=en" alt="salahaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaka&" alt="salahaka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaka" alt="salahaka" /></p>
+
