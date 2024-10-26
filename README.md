@@ -19,7 +19,8 @@
 </a><a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20411880/salahaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20411880/code-study4" height="30" width="40" /></a>
 
 
-<a href="https://instagram.com/__s_a_l_a_h_a__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__s_a_l_a_h_a__" height="30" width="40" /></a>  <a href="codestudy475@gmail.com" target="blank">
+<!--<a href="https://instagram.com/__s_a_l_a_h_a__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__s_a_l_a_h_a__" height="30" width="40" /> --> 
+</a>  <a href="codestudy475@gmail.com" target="blank">
   <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" alt="Mail" height="30" width="40" />
 </a>
 <!--<a href="https://www.chess.com/member/salaha_07" target="blank"> <img align="center" src="https://www.chess.com/home" alt="chess" height="30" width="40" /></a> -->
