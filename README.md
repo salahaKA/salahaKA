@@ -1,13 +1,13 @@
 
 <h1 align="center" text-color= "white"><b>Hi, I'm KADEEJATH SALAHA</b></h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahaka&label=Profile%20views&color=0e75b6&style=flat" alt="salahaka" /> </p>
 
-- 👩‍💻 Former MERN Stack Intern @RDL Tech
-- 👩‍🎓 Post Graduated in Master of Computer Applicatin (MCA)
+-  Former Full Stack Developer Intern @RDL Tech
+- 👩‍🎓 Post Graduated in MCA
 - 👩‍🎓 Graduated in BSC CS
 - ☁ All of my basic projects and Learnings are available here..
 
@@ -16,13 +16,15 @@
 
 <a href="https://www.linkedin.com/in/salahaka/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="30" width="40" />
-</a><a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20411880/salahaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20411880/code-study4" height="30" width="40" /></a>
+</a>
+<!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20411880/salahaka" target="blank"> -->
+<!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20411880/code-study4" height="30" width="40" /></a> -->
 
 
 <!--<a href="https://instagram.com/__s_a_l_a_h_a__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__s_a_l_a_h_a__" height="30" width="40" /> --> 
-</a>  <a href="codestudy475@gmail.com" target="blank">
+<!--</a>  <a href="codestudy475@gmail.com" target="blank">
   <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" alt="Mail" height="30" width="40" />
-</a>
+</a>-->
 <!--<a href="https://www.chess.com/member/salaha_07" target="blank"> <img align="center" src="https://www.chess.com/home" alt="chess" height="30" width="40" /></a> -->
 </p>
 <!-- <a href="https://www.linkedin.com/in/salahaka/" target="_blank">
