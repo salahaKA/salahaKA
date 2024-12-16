@@ -5,6 +5,7 @@
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahaka&label=Profile%20views&color=0e75b6&style=flat" alt="salahaka" /> </p>
+<p><img src="https://api.visitorbadge.io/api/daily?path=salahaka&label=%20&countColor=%230e75b6" alt="Daily Views" /></p>
 
 -  Former Full Stack Developer Intern @RDL Tech
 - 👩‍🎓 Post Graduated in MCA
@@ -68,4 +69,6 @@
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaka" alt="salahaka" /></p> 
 -->
+
+
 
