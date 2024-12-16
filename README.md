@@ -64,7 +64,13 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahaka&show_icons=true&locale=en" alt="salahaka" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahaka&show_icons=true&locale=en" alt="salahaka" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahaka&show_icons=true&locale=en" alt="salahaka" /></p>-->
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salahaka&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahaka&theme=radical&hide_longest_streak=true" alt="GitHub Streak" />
+</p>
+
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaka" alt="salahaka" /></p> 
