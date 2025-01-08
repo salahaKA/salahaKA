@@ -8,7 +8,7 @@
 
 
 
--  Former Full Stack Developer Intern @RDL Tech
+-  Former Full Stack Developer Intern
 - 👩‍🎓 Post Graduated in MCA
 - 👩‍🎓 Graduated in BSC CS
 - ☁ All of my basic projects and Learnings are available here..
