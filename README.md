@@ -1,6 +1,6 @@
 
 <h1 align="center" text-color= "white"><b>Hi, I'm KADEEJATH SALAHA</b></h1>
-<h3 align="center">Aspiring Software Developer</h3>
+
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
@@ -8,7 +8,7 @@
 
 
 
--  Former Full Stack Developer Intern
+-  Former Full-Stack Developer Intern
 - 👩‍🎓 Post Graduated in MCA
 - 👩‍🎓 Graduated in BSC CS
 - ☁ All of my basic projects and Learnings are available here..
