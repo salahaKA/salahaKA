@@ -8,9 +8,6 @@
 
 
 
--  Former Full-Stack Developer Intern
-- 👩‍🎓 Post Graduated in MCA
-- 👩‍🎓 Graduated in BSC CS
 - ☁ All of my basic projects and Learnings are available here..
 
 <h3 align="left">Connect with me:</h3>
